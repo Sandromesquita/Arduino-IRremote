@@ -6,6 +6,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
+IRremote  KEYWORD1
 decode_results	KEYWORD1
 IRrecv	KEYWORD1
 IRsend	KEYWORD1
